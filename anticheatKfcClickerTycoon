@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Autoplay Audio</title>
+  <style>
+    body {
+      background-color: black;
+      color: red;
+      font-size: 2em;
+      text-align: center;
+      margin-top: 20%;
+      font-family: Arial, sans-serif;
+    }
+  </style>
+</head>
+<body>
+
+<p>you really think I'm that stupid?</p>
+
+<audio autoplay>
+  <source src="https://media.vocaroo.com/mp3/16cNS3K6tZIK" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</body>
+</html>
